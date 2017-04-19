@@ -1,0 +1,23 @@
+{
+  "name": "cv10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsderSVK/cvicenie10MVI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsderSVK/cvicenie10MVI/issues"
+  },
+  "homepage": "https://github.com/AsderSVK/cvicenie10MVI#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
